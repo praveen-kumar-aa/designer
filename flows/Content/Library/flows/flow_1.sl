@@ -1,6 +1,6 @@
 namespace: flows
 flow:
-  name: flow_1
+  name: flow_1_1
   workflow:
     - How_do_I__Use_a_multi_instance_step:
         do_external:
