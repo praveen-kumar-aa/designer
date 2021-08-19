@@ -1,6 +1,6 @@
 namespace: flows
 flow:
-  name: flow1
+  name: flow_2
   workflow:
     - How_do_I__Create_a_parallel_flow:
         do_external:
@@ -13,14 +13,14 @@ extensions:
   graph:
     steps:
       How_do_I__Create_a_parallel_flow:
-        x: 364.01824951171875
-        'y': 128.3541717529297
+        x: 319.01824951171875
+        'y': 116.3671875
         navigate:
-          52e790f6-1cd3-bdf5-af3e-4e959d439401:
-            targetId: 32918c7f-a67d-2915-8307-5aa8a03b175a
+          564ffe56-65a9-6b1a-c755-cb1a2dfc7815:
+            targetId: 99d8f20c-5546-5ac5-0fb2-866317af619b
             port: success
     results:
       SUCCESS:
-        32918c7f-a67d-2915-8307-5aa8a03b175a:
-          x: 574.0182495117188
-          'y': 95.02604675292969
+        99d8f20c-5546-5ac5-0fb2-866317af619b:
+          x: 511
+          'y': 128
