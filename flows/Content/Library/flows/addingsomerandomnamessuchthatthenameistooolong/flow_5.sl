@@ -1,6 +1,6 @@
-namespace: flows.addingsomerandomnamessuchthatthenameistooolong
+namespace: flows
 flow:
-  name: flow_5
+  name: flow_1_2
   workflow:
     - How_do_I__Use_a_multi_instance_step:
         do_external:
@@ -13,15 +13,15 @@ extensions:
   graph:
     steps:
       How_do_I__Use_a_multi_instance_step:
-        x: 168
-        'y': 191.11111450195312
+        x: 183.0182342529297
+        'y': 89.3671875
         navigate:
-          1a89cb4e-b164-7dc7-021f-8874dbd25db7:
-            targetId: acd24cd5-0309-8ade-6ba9-f007be71a312
+          cbb2beb6-7cf0-1303-317a-a2b45501b818:
+            targetId: 791df4b3-18c3-bdec-0c78-2f1f8ff3f570
             port: success
     results:
       SUCCESS:
-        acd24cd5-0309-8ade-6ba9-f007be71a312:
-          x: 424
-          'y': 164.22222900390625
+        791df4b3-18c3-bdec-0c78-2f1f8ff3f570:
+          x: 456.98956298828125
+          'y': 54.830726623535156
 
